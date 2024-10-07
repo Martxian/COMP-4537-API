@@ -1,0 +1,11 @@
+{
+    "name": "dictionary-api",
+    "version": "1.0.0",
+    "description": "Minimal dictionary API using Node.js",
+    "main": "index.js",
+    "scripts": {
+      "start": "vercel dev"
+    },
+    "dependencies": {}
+  }
+  
